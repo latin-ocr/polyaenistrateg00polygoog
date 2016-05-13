@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./polyaenistrateg00polygoog_0010.png"; bbox 0 0 2318 3892; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 355 938 791 1010">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 355 938 791 1010">
+     <span class='ocr_line' id='line_1_1' title="bbox 355 938 791 1010; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 355 944 466 1009; x_wconf 89' lang='lat' dir='ltr'>VIRO</span> <span class='ocrx_word' id='word_1_2' title='bbox 490 943 760 1010; x_wconf 79' lang='lat' dir='ltr'>CLARISSIMO</span> <span class='ocrx_word' id='word_1_3' title='bbox 784 938 791 950; x_wconf 78' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 71 1234 1044 1412">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 71 1234 1044 1412">
+     <span class='ocr_line' id='line_1_2' title="bbox 71 1234 1044 1412; baseline -0.005 -9"><span class='ocrx_word' id='word_1_4' title='bbox 71 1234 1044 1412; x_wconf 61' lang='lat' dir='ltr'>FfflnEfflooflAAsEq</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 283 1537 1050 1615">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 283 1537 1050 1615">
+     <span class='ocr_line' id='line_1_3' title="bbox 283 1537 1050 1615; baseline -0.001 -25"><span class='ocrx_word' id='word_1_5' title='bbox 283 1538 510 1591; x_wconf 73' lang='lat' dir='ltr'>PROFESSORI</span> <span class='ocrx_word' id='word_1_6' title='bbox 530 1537 835 1591; x_wconf 80' lang='lat' dir='ltr'>VBATISLAVIENSI</span> <span class='ocrx_word' id='word_1_7' title='bbox 887 1606 890 1615; x_wconf 27' lang='grc'>1</span> <span class='ocrx_word' id='word_1_8' title='bbox 1033 1537 1050 1578; x_wconf 77' lang='lat'><em>⁰</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 479 1962 625 2004">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 479 1962 625 2004">
+     <span class='ocr_line' id='line_1_4' title="bbox 479 1962 625 2004; baseline -0.014 0"><span class='ocrx_word' id='word_1_9' title='bbox 479 1965 528 2004; x_wconf 73' lang='grc' dir='ltr'>Ἰ).</span> <span class='ocrx_word' id='word_1_10' title='bbox 546 1964 578 2004; x_wconf 81' lang='lat'>1).</span> <span class='ocrx_word' id='word_1_11' title='bbox 594 1962 625 2003; x_wconf 88' lang='lat' dir='ltr'>D.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 449 2261 675 2315">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 449 2261 675 2315">
+     <span class='ocr_line' id='line_1_5' title="bbox 449 2261 675 2315; baseline -0.013 0"><span class='ocrx_word' id='word_1_12' title='bbox 449 2261 675 2315; x_wconf 77' lang='lat' dir='ltr'>EDI&#39;POB.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1164 3892">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1164 3892">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1164 3892; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1164 3892; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
